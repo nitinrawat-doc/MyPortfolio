@@ -20,6 +20,6 @@ This portfolio is designed to represent my journey as a developer, highlight the
 
 
 
----
+---.
 
 ⭐ **If you like this project, don’t forget to give it a star!**
