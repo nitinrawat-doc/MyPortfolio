@@ -16,7 +16,7 @@ This portfolio is designed to represent my journey as a developer, highlight the
 - Responsive design for all screen sizes  
 - Smooth animations and transitions  
 - Projects section with live demos and GitHub links  
-- Contact form for easy communication  
+- Contact form for easy communication . 
 
 
 
