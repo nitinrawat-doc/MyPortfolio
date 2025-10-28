@@ -27,8 +27,8 @@ This portfolio is designed to represent my journey as a developer, highlight the
 
 ## 📬 Contact
 If you’d like to connect or collaborate, feel free to reach out:  
-📧 **[your-email@example.com]**  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+📧 **[nitinrawat2906@gmail.com]**  
+💼 [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nitin-rawat-905433330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 🐙 [GitHub](https://github.com/nitinrawat-doc)
 
 ---
